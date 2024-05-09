@@ -1,1 +1,1 @@
-Please make sure to add api in the js. although i cant provide my own api
+Please make sure to add API key in the js. although I can't provide my own api.
